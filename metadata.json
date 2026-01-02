@@ -1,0 +1,7 @@
+{
+  "name": "ARS Color Match Pro",
+  "description": "Professional color extraction and ARS color code matching system for carpets, textiles, and interior design. Upload product images to automatically identify exact color palettes and generate inquiry reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
